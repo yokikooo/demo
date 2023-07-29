@@ -1,7 +1,7 @@
-package com.example.designpattern.duck;
+package com.example.designpattern.strategy.duck;
 
-import com.example.designpattern.fly.FlyNoWay;
-import com.example.designpattern.quack.MuteQuack;
+import com.example.designpattern.strategy.fly.FlyNoWay;
+import com.example.designpattern.strategy.quack.MuteQuack;
 
 public class RedheadDuck extends Duck{
 

@@ -1,4 +1,4 @@
-package com.example.designpattern.fly;
+package com.example.designpattern.strategy.fly;
 
 public interface FlyBehavior {
 

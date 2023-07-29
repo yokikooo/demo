@@ -1,9 +1,9 @@
 package com.example.demo;
 
-import com.example.designpattern.duck.Duck;
-import com.example.designpattern.duck.MallardDuck;
-import com.example.designpattern.duck.ModelDuck;
-import com.example.designpattern.fly.FlyRocketPower;
+import com.example.designpattern.strategy.duck.Duck;
+import com.example.designpattern.strategy.duck.MallardDuck;
+import com.example.designpattern.strategy.duck.ModelDuck;
+import com.example.designpattern.strategy.fly.FlyRocketPower;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

@@ -1,4 +1,4 @@
-package com.example.designpattern.quack;
+package com.example.designpattern.strategy.quack;
 
 public class Squeak implements QuackBehavior{
     @Override
